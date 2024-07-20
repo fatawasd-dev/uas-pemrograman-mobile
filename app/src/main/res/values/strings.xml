@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UTS Mobile - Fahmi Agung Tajul Abidin</string>
+    <string name="loading_text">Loading...</string>
+    <string name="username_placeholder">Username</string>
+    <string name="email_placeholder">Email</string>
+    <string name="password_placeholder">Password</string>
+    <string name="re_password_placeholder">Retype Password Again</string>
+    <string name="login_button">Login</string>
+    <string name="login_button_google">Login with Google</string>
+    <string name="register_text">Belum punya akun ? daftar disini.</string>
+    <string name="register_footer">Sudah punya akun ? login disini.</string>
+    <string name="login_title">LOGIN</string>
+    <string name="register_title">REGISTER</string>
+    <string name="register_button">Sign Up</string>
+    <string name="register_button_google">Sign Up with Google</string>
+    <string name="default_web_client_id">246152338388-uf685ai7olbqi7ra5t759rcf2jc4t9fs.apps.googleusercontent.com</string>
+</resources>
